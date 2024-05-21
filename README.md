@@ -3,8 +3,7 @@
 **Ingeniero en Sistemas de Informacion**  
 [Paternal, Capital Federal, Argentina]  
 [Mail](torrestomas.2004@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/tomastorres2004/) | [GitHub](https://github.com/toomastorres)
-[Descargar mi CV](cv.md)
+[LinkedIn](https://www.linkedin.com/in/tomastorres2004/) | [GitHub](https://github.com/toomastorres) | [Descargar mi CV](CV_Tomas_Angel_Torres)
 
 ---
 
