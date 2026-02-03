@@ -35,7 +35,7 @@ Profesional con un perfil híbrido que combina una sólida experiencia en **Admi
 
 * **Ubicación:** Villa Devoto, CABA, Argentina. 
 * **Email:** [torrestomas.2004@gmail.com](mailto:torrestomas.2004@gmail.com) 
-* **LinkedIn:** [https://www.linkedin.com/in/tomastorres2004/] 
+* **LinkedIn:** https://www.linkedin.com/in/tomastorres2004/ 
 
 ---
 <!---
