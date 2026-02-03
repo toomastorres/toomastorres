@@ -1,64 +1,43 @@
-# [Tomas Angel Torres]
+# ¡Hola! Soy Tomás Ángel Torres 👋
 
-**Ingeniero en Sistemas de Informacion**  
-[Paternal, Capital Federal, Argentina]  
-[Mail: torrestomas.2004@gmail.com](torrestomas.2004@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/tomastorres2004/) | [GitHub](https://github.com/toomastorres) | [Descargar mi CV](/CV_Tomas_Angel_Torres.pdf)
+**Ingeniero en Sistemas de Información (UTN) | Digital Transformation Lead | Especialista en Automatización**
 
----
-
-## 🎓 Educación
-
-**[Ingeniero en Sistemas de Informacion]**  
-[Universidad Tecnologica Nacional], [Inicio: 2023]
-
-**[Desarrollador Full-Stack]**  
-[Alura LATAM], [Inicio: 2022 - Finalizacion: 2023]
+Profesional con un perfil híbrido que combina una sólida experiencia en **Administración y Finanzas** con conocimientos técnicos avanzados en **IT**. Me especializo en liderar procesos de **Transformación Digital**, optimizando flujos de trabajo mediante la implementación de sistemas ERP/CRM y el desarrollo de automatizaciones.
 
 ---
 
-## 💼 Experiencia Profesional
+### 🚀 Logros y Experiencia Destacada
 
-**[Analista Administrativo//Pago a proveedores]**  
-[Rosbaco & Partners], [Diciembre 2022 - Actualidad]
-
-- Confeccion de Ordenes de pago.
-- Ingreso de facturas al sistema.
-- Control de factura IVA
-- Consolidado bancarios.
-- Pago a proveedores.
+* **Automatización de Procesos:** Logré una reducción del **30% en los tiempos de carga manual** mediante el rediseño de circuitos administrativos y automatizaciones.
+* **Liderazgo en Implementación ERP:** Actualmente asesoro a la dirección en la migración y gestión operativa de nuevos sistemas de gestión.
+* **Key User Salesforce:** Colaboré en la adaptación del CRM para áreas administrativas y lideré la capacitación del personal para asegurar la adopción tecnológica.
+* **Business Intelligence:** Generación de reportes financieros avanzados para facilitar la toma de decisiones estratégicas basadas en datos.
 
 ---
 
-## 🛠️ Habilidades
+### 🛠️ Stack Tecnológico
 
-- **Lenguajes de Programación:** [C; C++; JavaScript; HTML; CSS]
-- **Herramientas:** [Visual Studio Code; SublimeText, Microsoft Code, GIT, CodeBlocks]
-- **Idiomas:** [Ingles basico-tecnico]
-
----
-
-## 🏆 Proyectos
-
-**[Proyecto 1]**  
-EN PROCESO...  
+* **Lenguajes de Programación:** Python, C++, PHP, JavaScript, HTML/CSS.
+* **Análisis de Datos:** Power BI, Business Intelligence.
+* **Gestión y Procesos:** Relevamiento de Procesos, Análisis Funcional, BPMN, Jira, Confluence.
+* **Infraestructura:** Administrador de Office 365 y Google Workspace, Nociones de Redes y Servidores.
 
 ---
 
-## 📜 Certificaciones
+### 🎓 Educación
 
-- **[Formacion HTML, CSS]**, [ALURA LATAM], [2022]
-- **[Desarrollo Front End]**, [ALURA LATAM], [2022]
-- **[Formacion Principiante en Programacion]**, [ALURA LATAM], [2022]
+* **Ingeniería en Sistemas de Información** | Universidad Tecnológica Nacional (UTN) | 2023 - En curso (est. 2028).
+* **Auxiliar Administrativo, Contable y Financiero** | Instituto CIEC | Finalizado en 2022.
 
 ---
 
-## 📫 Contacto
+### 📫 Contacto
 
-- **Correo Electrónico:** [Gmail: torrestomas.2004@gmail.com](torrestomas.2004@gmail.com)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tomastorres2004/)
-- **GitHub:** [GitHub](https://github.com/toomastorres)
+* **Ubicación:** Villa Devoto, CABA, Argentina. 
+* **Email:** [torrestomas.2004@gmail.com](mailto:torrestomas.2004@gmail.com) 
+* **LinkedIn:** [Tu Enlace Aquí] 
 
+---
 <!---
 toomastorres/toomastorres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
