@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 260" width="1000" height="260" font-family="Segoe UI, Arial, sans-serif" role="img" aria-label="Tomás Torres — Automatización de procesos y análisis funcional">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16304d"/><stop offset="0.6" stop-color="#1e3a5f"/><stop offset="1" stop-color="#264f78"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="260" rx="16" fill="url(#bg)"/>
+  <!-- olas decorativas -->
+  <path d="M0 200 q125 -34 250 0 t250 0 t250 0 t250 0" fill="none" stroke="#2d527a" stroke-width="3" opacity="0.6"/>
+  <path d="M0 226 q125 -34 250 0 t250 0 t250 0 t250 0" fill="none" stroke="#27496e" stroke-width="3" opacity="0.6"/>
+  <path d="M0 252 q125 -34 250 0 t250 0 t250 0 t250 0" fill="none" stroke="#21405f" stroke-width="3" opacity="0.5"/>
+
+  <!-- marca / ancla -->
+  <g transform="translate(56,74)">
+    <rect width="92" height="92" rx="18" fill="#0f2236"/>
+    <g fill="none" stroke="#5aa9e6" stroke-width="4" stroke-linecap="round">
+      <path d="M14 64 q11 -8 23 0 t23 0 t23 0"/>
+      <path d="M14 76 q11 -8 23 0 t23 0 t23 0" stroke="#9ecbf0"/>
+    </g>
+    <g fill="none" stroke="#ffffff" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="46" cy="24" r="5"/><line x1="46" y1="29" x2="46" y2="56"/><line x1="34" y1="35" x2="58" y2="35"/>
+      <path d="M28 48 q0 14 18 14 q18 0 18 -14"/>
+    </g>
+  </g>
+
+  <text x="180" y="104" fill="#ffffff" font-size="42" font-weight="800">Tomás Torres</text>
+  <text x="182" y="140" fill="#9ecbf0" font-size="17" letter-spacing="1">Automatización de procesos · Analista funcional · Admin-Finanzas + IT</text>
+
+  <!-- chips de stack -->
+  <g font-size="13" font-weight="600">
+    <rect x="182" y="160" width="56" height="26" rx="13" fill="#ffffff" fill-opacity="0.12"/><text x="210" y="178" fill="#e6f0fa" text-anchor="middle">C#</text>
+    <rect x="246" y="160" width="76" height="26" rx="13" fill="#ffffff" fill-opacity="0.12"/><text x="284" y="178" fill="#e6f0fa" text-anchor="middle">Python</text>
+    <rect x="330" y="160" width="56" height="26" rx="13" fill="#ffffff" fill-opacity="0.12"/><text x="358" y="178" fill="#e6f0fa" text-anchor="middle">PHP</text>
+    <rect x="394" y="160" width="72" height="26" rx="13" fill="#ffffff" fill-opacity="0.12"/><text x="430" y="178" fill="#e6f0fa" text-anchor="middle">.NET 8</text>
+    <rect x="474" y="160" width="56" height="26" rx="13" fill="#ffffff" fill-opacity="0.12"/><text x="502" y="178" fill="#e6f0fa" text-anchor="middle">SQL</text>
+    <rect x="538" y="160" width="64" height="26" rx="13" fill="#ffffff" fill-opacity="0.12"/><text x="570" y="178" fill="#e6f0fa" text-anchor="middle">VBA</text>
+    <rect x="610" y="160" width="76" height="26" rx="13" fill="#ffffff" fill-opacity="0.12"/><text x="648" y="178" fill="#e6f0fa" text-anchor="middle">Docker</text>
+  </g>
+
+  <!-- dominio -->
+  <text x="944" y="48" fill="#7fa8cf" font-size="13" text-anchor="end" letter-spacing="3">RELEVAR · AUTOMATIZAR · REPORTAR</text>
+</svg>
