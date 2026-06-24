@@ -65,7 +65,7 @@ Lidero la transformación digital del área administrativo-financiera:
 - Relevamiento/análisis funcional, integraciones (AFIP/ARCA, ERP de origen) y reporting/BI.
 
 **Rosbaco & Partners** — *Administrative Project Analyst & Salesforce Key User* · dic 2022 – ago 2024
-Análisis de proyectos administrativos y key user de Salesforce: adaptación del CRM a las necesidades
+Análisis de proyectos administrativos y key user de Salesforce: adaptación del CRM a las necesidades 
 del área y capacitación del equipo.
 
 ---
