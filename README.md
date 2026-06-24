@@ -58,17 +58,15 @@ que lo va a usar.
 ### 💼 Experiencia
 
 **Grimaldi Agencies Argentina** — *Financial Analyst & Digital Transformation Lead* · ago 2024 – actualidad
-- Lidero la transformación digital del área administrativo-financiera
+Lidero la transformación digital del área administrativo-financiera:
 - **Desarrollo herramientas internas a medida** que automatizan los circuitos (de acá salen, en versión **anonimizada**, los proyectos de abajo).
 - Responsable de las **rendiciones de cuenta al armador (casa matriz, Italia)** y de **tareas financieras** operando con esas herramientas.
 - **Análisis financiero, business case de ERP y propuesta de migración a la nube** (ver caso de estudio abajo).
 - Relevamiento/análisis funcional, integraciones (AFIP/ARCA, ERP de origen) y reporting/BI.
 
 **Rosbaco & Partners** — *Administrative Project Analyst & Salesforce Key User* · dic 2022 – ago 2024
-- Análisis de proyectos administrativos y key user de Salesforce: adaptación del CRM a las necesidades del área y capacitación del equipo.
-- Capacitación del personal para asegurar la adopción de la herramienta.
-- Administración integral de desarrollos inmobiliarios para un grupo de 12 sociedades, garantizando el cumplimiento de los hitos financieros y operativos.
-- Análisis y rediseño de circuitos administrativos, logrando una reducción de tiempo y eficiencia.
+Análisis de proyectos administrativos y key user de Salesforce: adaptación del CRM a las necesidades
+del área y capacitación del equipo.
 
 ---
 
